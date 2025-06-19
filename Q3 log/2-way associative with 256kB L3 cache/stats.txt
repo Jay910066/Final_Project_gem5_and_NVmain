@@ -4,11 +4,11 @@ sim_seconds                                  0.092193                       # Nu
 sim_ticks                                 92192740000                       # Number of ticks simulated
 final_tick                                92192740000                       # Number of ticks from beginning of simulation (restored from checkpoints and never reset)
 sim_freq                                 1000000000000                       # Frequency of simulated ticks
-host_inst_rate                                 954445                       # Simulator instruction rate (inst/s)
-host_op_rate                                  1571512                       # Simulator op (including micro ops) rate (op/s)
-host_tick_rate                             1973388830                       # Simulator tick rate (ticks/s)
+host_inst_rate                                 910458                       # Simulator instruction rate (inst/s)
+host_op_rate                                  1499087                       # Simulator op (including micro ops) rate (op/s)
+host_tick_rate                             1882442714                       # Simulator tick rate (ticks/s)
 host_mem_usage                                 668388                       # Number of bytes of host memory used
-host_seconds                                    46.72                       # Real time elapsed on the host
+host_seconds                                    48.98                       # Real time elapsed on the host
 sim_insts                                    44589715                       # Number of instructions simulated
 sim_ops                                      73417860                       # Number of ops (including micro ops) simulated
 system.voltage_domain.voltage                       1                       # Voltage in Volts
